@@ -1,0 +1,5 @@
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=CarMaintenanceAPI
+--content-root=/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI
+--file=

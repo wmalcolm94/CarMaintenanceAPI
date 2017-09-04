@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Volumes/Internal HD/wmalcolm/.dotnet/store/|arch|/|tfm|",
+      "/Volumes/Internal HD/wmalcolm/.nuget/packages"
+    ]
+  }
+}
