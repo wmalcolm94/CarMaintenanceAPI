@@ -1,0 +1,12 @@
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/bin/Debug/netcoreapp2.0/CarMaintenanceAPI.deps.json
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/bin/Debug/netcoreapp2.0/CarMaintenanceAPI.runtimeconfig.json
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/bin/Debug/netcoreapp2.0/CarMaintenanceAPI.runtimeconfig.dev.json
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/bin/Debug/netcoreapp2.0/CarMaintenanceAPI.dll
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/bin/Debug/netcoreapp2.0/CarMaintenanceAPI.pdb
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/obj/Debug/netcoreapp2.0/CarMaintenanceAPI.csproj.CoreCompileInputs.cache
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/obj/Debug/netcoreapp2.0/CarMaintenanceAPI.AssemblyInfoInputs.cache
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/obj/Debug/netcoreapp2.0/CarMaintenanceAPI.AssemblyInfo.cs
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/obj/Debug/netcoreapp2.0/CarMaintenanceAPI.dll
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/obj/Debug/netcoreapp2.0/CarMaintenanceAPI.pdb
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/obj/Debug/netcoreapp2.0/CarMaintenanceAPI.csprojResolveAssemblyReference.cache
+/Volumes/Internal HD/wmalcolm/SourceCode/netcore/CarMaintenanceAPI/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
